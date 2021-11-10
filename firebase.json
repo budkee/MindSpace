@@ -3,7 +3,7 @@
     "source": "functions"
   },
   "hosting": {
-    "public": "Conteúdo",
+    "public": "mindspace",
     "ignore": [
       "firebase.json",
       "**/.*",
