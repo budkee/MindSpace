@@ -1,6 +1,6 @@
 Minha MindSpace
 ===================
-> Este projeto foi criado com o intuíto de construir um Web App que servisse como uma biblioteca pessoal das ideias que o usuário vem a ter ao longo do dia. 
+> Este projeto foi criado com o intuíto de construir um Web App a fim de estudar como funciona a hospedagem do firebase e outras funcionalidades que o firebase possui. 
 
 
 Página inicial
