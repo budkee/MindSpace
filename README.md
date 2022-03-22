@@ -6,6 +6,7 @@ Minha MindSpace
 Página inicial
 -------------------
 #### Últimos pensamentos
+- Página de cadastro do usuário. 
 #### Minhas leituras
 #### Minhas ideias
 
